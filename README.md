@@ -1,4 +1,5 @@
 ﻿# Setup-Archlinux-Windows11
+ 
 =====SETUP=====
 #kiểm tra phân vùng
 lsblk
